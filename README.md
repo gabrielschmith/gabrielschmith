@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Gabriel Schmith! 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielschmith&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ## About Me
 I am a Architect Software with a passion for programming. I love exploring new technologies and am always eager to learn more in the field of software architecture, data science, hacking, games.
 
