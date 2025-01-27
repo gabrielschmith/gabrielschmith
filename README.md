@@ -12,9 +12,9 @@ I am a Architect Software with a passion for programming. I love exploring new t
 - [Softplan]         - Senior Solutions Architect - Team Lead
 - [Cencosud S.A.]    - Principal Solutions Architect
 - [Stefanini Brasil] - Senior Solutions Architect
-- [Bank Sofisa S/A]  - Senior Software Engineering 
-- [B3]               - Senior Software Engineering
-- [Senac Brasil]     - Senior Software Engineering
+- [Bank Sofisa S/A]  - Senior Solutions Architect 
+- [B3]               - Senior Solutions Architect
+- [Senac Brasil]     - Senior Solutions Architect
 - [AllTrade]         - Tech Lead & Development Lead Software
 
 ## How to Collaborate and Contact
