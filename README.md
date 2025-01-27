@@ -9,7 +9,6 @@ I am a Architect Software with a passion for programming. I love exploring new t
 - **Databases**: Sql Server, Postgres, MongoDB
 
 ## Professional Experience
-Senior Software Engineering
 - [Softplan]         - Senior Solutions Architect - Team Lead
 - [Cencosud S.A.]    - Principal Solutions Architect
 - [Stefanini Brasil] - Senior Solutions Architect
