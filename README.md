@@ -4,9 +4,9 @@
 I am a Architect Software with a passion for programming. I love exploring new technologies and am always eager to learn more in the field of software architecture, data science, hacking, games.
 
 ## Technical Skills
-- **Programming Languages**: C#, .NET Core, ASP.NET Core, C++
+- **Programming Languages**: C#, .NET Core, ASP.NET Core, C++, AI
 - **Tools & Technologies**: React, Node.js, Docker, AWS, Kubernetes
-- **Databases**: Sql Server, Postgres, MongoDB
+- **Databases**: Sql Server, Postgres, MongoDB, QDrant
 
 ## Professional Experience
 - [Softplan]         - Senior Solutions Architect - Team Lead
