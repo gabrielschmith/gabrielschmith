@@ -9,7 +9,7 @@ I am a Architect Software with a passion for programming. I love exploring new t
 - **Databases**: Sql Server, Postgres, MongoDB, QDrant
 
 ## Professional Experience
-- [Softplan]         - Senior Solutions Architect - Team Lead
+- [Softplan]         - Principal GEN AI Architect
 - [Cencosud S.A.]    - Principal Solutions Architect
 - [Stefanini Brasil] - Senior Solutions Architect
 - [Bank Sofisa S/A]  - Senior Solutions Architect 
@@ -18,7 +18,7 @@ I am a Architect Software with a passion for programming. I love exploring new t
 - [AllTrade]         - Tech Lead & Development Lead Software
 
 ## How to Collaborate and Contact
-I am open to collaborations on projects involving programming. Feel free to email me at gabrielschmith@hotmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-schmith/).
+I am open to collaborations on projects involving programming. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-schmith/).
 
 ## Feedback and Interactivity
 If you have any feedback or questions about my projects, please do not hesitate to open an issue in the relevant repository or send me a direct message.
